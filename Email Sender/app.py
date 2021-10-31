@@ -1,3 +1,4 @@
+#this is a Python Project
 import smtplib 
 from email.message import EmailMessage
 
